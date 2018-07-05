@@ -33,10 +33,16 @@ sudo apt-get install fonts-powerline
 ### configure
 
 1. change theme to agnoster
+
+```
 ZSH_THEME="agnoster"
+```
 
 2. hide user information
+
+```
 export DEFAULT_USER="username"
+```
 
 3.plugins
 
