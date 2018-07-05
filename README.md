@@ -44,7 +44,7 @@ ZSH_THEME="agnoster"
 export DEFAULT_USER="username"
 ```
 
-3.plugins
+3. plugins
 
 - zsh-autosuggestions
 - zsh-syntax-highlighting
