@@ -75,5 +75,5 @@ applications: flat-remix-gtk
 icon theme: deepin
 cursor: deepin
 shell: transparent
-
+gnome extensions: dash-to-panel (mv topbar to bottem: https://github.com/home-sweet-gnome/dash-to-panel.git)
 ```
