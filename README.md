@@ -50,4 +50,30 @@ export DEFAULT_USER="username"
 - zsh-syntax-highlighting
 - autojump
 
+## pip3
 
+```bash
+sudo apt-get install python3-pip
+```
+
+## virtualenvwrapper
+
+```bash
+# add to .zshrc
+
+export WORKON_HOME=$HOME/.virtualenvs
+source /usr/local/bin/virtualenvwrapper.sh
+
+```
+
+## theme
+
+https://www.jianshu.com/p/f9e905abea91
+
+```
+applications: flat-remix-gtk
+icon theme: deepin
+cursor: deepin
+shell: transparent
+
+```
