@@ -68,8 +68,8 @@ source /usr/local/bin/virtualenvwrapper.sh
 
 ## theme
 
-instruction: https://www.jianshu.com/p/f9e905abea91
-files: url：https://pan.baidu.com/s/1O05NxFDRXNi_0EQs0JhlDg passwd：bumg
+- instruction: https://www.jianshu.com/p/f9e905abea91
+- files: (https://pan.baidu.com/s/1O05NxFDRXNi_0EQs0JhlDg passwd:bumg)
 ```
 applications: flat-remix-gtk
 icon theme: deepin
