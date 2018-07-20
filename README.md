@@ -22,6 +22,9 @@ https://www.jianshu.com/p/9a5c4cb0452d
 
 sudo apt install zsh
 
+# install ca-certificates
+apt-get install ca-certificates
+
 # install oh-my-zsh
 sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
 
